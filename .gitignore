@@ -99,5 +99,3 @@ package-lock.json
 vite.main.config.mjs
 vite.renderer.config.mjs
 vite.preload.config.mjs
-
-.gitignore
